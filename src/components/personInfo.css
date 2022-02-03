@@ -1,0 +1,23 @@
+.profile-container{
+    margin: 0px auto;
+    width: 60%;
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.profile-wrapper{
+    border:1px solid #ccc;
+    border-radius: 10px;
+    padding: 50px 20px;
+    width: 200px;
+    margin-bottom: 50px
+}
+.user-pic{
+   width:50%;
+}
+.profile-info{
+    font-weight: 600;
+    margin: 10px 0px;
+    font-size: 16px;
+}
+
